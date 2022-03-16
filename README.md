@@ -13,3 +13,4 @@ This is the repo of Kaggle Machine Learning Competition Algorithms implemented *
 ---
 * **House Price Advance Predicition**
 * **Digit Recognizer**
+* **Face Recognition 7K classes**
